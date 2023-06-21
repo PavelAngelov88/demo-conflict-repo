@@ -2,8 +2,6 @@ file created with git desctop commit
 
 added line through git bash commit
 
-<<<<<<< HEAD
 added second line with git desktop commit
-=======
+
 more
->>>>>>> 2e1258d2a262205ae0ecd2d157dbe2b75c60eff2
